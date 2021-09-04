@@ -1,0 +1,14 @@
+{
+  "name": "selfie_app",
+  "version": "1.0.0",
+  "description": "Selfie app by Joey Lee",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Santiago Ramirez",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
